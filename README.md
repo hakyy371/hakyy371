@@ -34,7 +34,14 @@ Still grinding...
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakyy371&layout=compact&theme=tokyonight)
+## 🧬 Skills
+
+```bash
+Linux        █████████░░ 90%
+Bash         ███████░░░░ 70%
+Termux       ████████░░░ 80%
+NetHunter    ██████░░░░░ 60%
+Security     ███░░░░░░░░ 30%
 
 🧬 Current Mission
 
