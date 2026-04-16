@@ -21,21 +21,20 @@ Still grinding...
 
 ---
 
-⚔️ Arsenal
+## ⚔️ Arsenal
 
-"Linux" (https://img.shields.io/badge/Linux-000000?logo=linux)
-"Bash" (https://img.shields.io/badge/Bash-121011?logo=gnu-bash)
-"Git" (https://img.shields.io/badge/Git-000000?logo=git)
-"Termux" (https://img.shields.io/badge/Termux-000000)
-"Kali" (https://img.shields.io/badge/Kali_Linux-000000?logo=kalilinux)
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Termux-000000" />
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Git-000000?logo=git" />
+</p>
 
----
+## 📊 Stats
 
-📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakyy371&layout=compact&theme=tokyonight)
 
 🧬 Current Mission
 
