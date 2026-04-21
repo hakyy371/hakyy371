@@ -1,56 +1,68 @@
-🐍 root@hakyy371:~#
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=header"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Booting+System...;Access+Granted;Welcome+to+hakyy371;Loading+Modules..."/>
+</p>🐍 root@hakyy371:~#
 
-> whoami
-Linux Enthusiast | Termux User | System Tweaker
+> sudo su
 
-> uname -a
-Learning Linux & exploring terminal...
+root@hakyy371:~# whoami
+Kali NetHunter User | Termux | Linux Tweaker
 
-> uptime
+root@hakyy371:~# uname -a
+Android + Linux Kernel | CLI Enjoyer
+
+root@hakyy371:~# status
 Still grinding...
 
 ---
 
-🧠 About Me
+⚔️ Arsenal
 
-- 🐧 Linux user
-- ⚙️ oprek system
-- 📱 Termux enjoyer
-- 🔐 Interested in cyber security
-- 💀 Terminal is my comfort zone
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+  <img src="https://img.shields.io/badge/Termux-000000?logo=android&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Kali_NetHunter-000000?logo=kalilinux"/>
+</p>---
 
----
+🧬 Skills
 
-## ⚔️ Arsenal
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50"/>
-  <img src="https://img.shields.io/badge/Termux-000000" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/Git-000000?logo=git" />
-</p>
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
-
-## 🧬 Skills
-
-```bash
 Linux        █████████░░ 90%
 Bash         ███████░░░░ 70%
 Termux       ████████░░░ 80%
 NetHunter    ██████░░░░░ 60%
 Security     ███░░░░░░░░ 30%
 
-🧬 Current Mission
+---
 
-[███████░░░] Linux
-[█████░░░░░] Bash
-[███░░░░░░░] Cyber Security
+📊 System Stats
+
+"Stats" (https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
+
+"Streak" (https://streak-stats.demolab.com?user=hakyy371&theme=tokyonight)
+
+---
+
+🐍 Contribution Snake
+
+"Snake" (https://raw.githubusercontent.com/hakyy371/hakyy371/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+💀 Active Directories
+
+~/projects
+├── termux-setup
+├── linux-tweaks
+├── nethunter-config
+└── coming-soon...
 
 ---
 
 ☠️ Motto
 
-"Talk is cheap. Show me the code."
+"Stay low, keep learning."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/>
+</p>
