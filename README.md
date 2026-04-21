@@ -17,13 +17,13 @@ Still grinding...
 
 ---
 
-⚔️ Arsenal
+## ⚔️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
-  <img src="https://img.shields.io/badge/Termux-000000?logo=android&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Kali_NetHunter-000000?logo=kalilinux"/>
-</p>---
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" height="60"/>
+</p>
 
 🧬 Skills
 
@@ -35,18 +35,15 @@ Security     ███░░░░░░░░ 30%
 
 ---
 
-📊 System Stats
+## 📊 System Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
 
-"Streak" (https://streak-stats.demolab.com?user=hakyy371&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=hakyy371&theme=tokyonight)
 
----
+## 🐍 Contribution Snake
 
-🐍 Contribution Snake
-
-"Snake" (https://raw.githubusercontent.com/hakyy371/hakyy371/output/github-contribution-grid-snake-dark.svg)
-
+![Snake](https://raw.githubusercontent.com/hakyy371/hakyy371/output/github-contribution-grid-snake-dark.svg)
 ---
 
 💀 Active Directories
