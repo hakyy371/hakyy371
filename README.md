@@ -40,11 +40,9 @@ Security     ███░░░░░░░░ 30%
 ![Stats](https://github-readme-stats.vercel.app/api?username=hakyy371&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=hakyy371&theme=tokyonight)
-
 ## 🐍 Contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/hakyy371/hakyy371/output/github-contribution-grid-snake-dark.svg)
----
 
 💀 Active Directories
 
